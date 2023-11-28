@@ -30,7 +30,8 @@ print("Square root of the number:",a)
 ```
 
 ## Output:
-![square](https://github.com/MounishT/Square-root-of-a-number/assets/138955798/f698a4c4-4a53-4751-adb9-2b47ea4cc345)
+![square](https://github.com/MounishT/Square-root-of-a-number/assets/138955798/bdbff29b-96da-4854-8cb4-62315002377b)
+
 
 
 
